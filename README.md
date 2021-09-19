@@ -81,3 +81,9 @@ As we want the default value of lang, so no need to give that to gTTS.
     Button(root, font='arial 15 bold', text="PLAY", width='4',  command=Text_to_speech).place(x=100, y=140)
     Button(root, font='arial 15 bold', text='EXIT', width='4', command=Exit, bg='OrangeRed1').place(x=175, y=140)
     Button(root, font='arial 15 bold', text='RESET', width='6', command=Reset).place(x=250, y=140)
+## Finish
+    root.mainloop()
+## Output
+![Screenshot from 2021-09-19 09-57-20](https://user-images.githubusercontent.com/87347502/133913961-4ffe600e-ac30-40ef-8dd8-3a41ea9a1607.png)
+
+# Thank you!
